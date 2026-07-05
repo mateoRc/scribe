@@ -10,4 +10,4 @@ and atomically publish a cached snapshot. Consumers read the last valid
 snapshot without making live provider calls.
 
 The Backend Lab integration roadmap remains in the
-[Lab repository](https://github.com/mateoRc/lab/blob/main/content/docs/projects/roadmaps/scribe.md).
+[Lab repository](https://github.com/mateoRc/lab/blob/main/content/docs/roadmaps/scribe.md).
